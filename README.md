@@ -1,5 +1,12 @@
 # Sistema de IA Basado en Micro Neuronas (MNs)
 
+## ---- ADVERTENCIA -----
+El proyecto está en fases de desarrollo extremadamente tempranas (alfa), si eres un usuario que busca ejecutar esta IA, **NO LO HAGAS**, aún no está lista y podría incluso no funcionar.
+
+## Notas del autor:
+Aquí les presento, la primera IA capaz de entender el lenguaje, su sistema basado en MNs le permite entender las reglas gramaticales, las palabras, los conceptos abstractos, entre varias otras cosas. 
+¿Conoces la metafora del hombre que sabe como hablar chino pero no lo entiende? Pues nuestro sistema MNs, a diferencia del LLM, vendría siendo el chino que sabe de verdad chino, ya no más respuestas extrañas, ya no más inventar cosas, ¿Entrenamientos complejos? ¡Claro que no! Alimenta a Krystal-ai con un buen artículo cientifíco, lo entenderá todo y creará nuevas neuronas para conectar todo su nuevo conocimiento.
+
 ## Visión General
 
 Este proyecto implementa un sistema de inteligencia artificial inspirado en una arquitectura neuronal jerárquica, no basada en LLMs, sino en micro neuronas (MNs), neuronas, macro neuronas y neuronas de interconexión. Cada nodo representa conceptos de distinta complejidad y se conecta para formar un sistema de razonamiento bruto, capaz de comprender, aprender y generar lenguaje de manera granular y explicable.
