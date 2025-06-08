@@ -4,7 +4,7 @@
 El proyecto está en fases de desarrollo extremadamente tempranas (alfa), si eres un usuario que busca ejecutar esta IA, **NO LO HAGAS**, aún no está lista y podría incluso no funcionar, no se incluyó main.py ni otros archivos cruciales para su ejecución para así evitar que se intente.
 
 ## Notas del autor:
-Aquí les presento, la primera IA capaz de entender el lenguaje, su sistema basado en MNs le permite entender las reglas gramaticales, las palabras, los conceptos abstractos, entre varias otras cosas. 
+Con un diseño y arquitectura hechos desde 0, esta IA intenta prometer de verdad entender el lenguaje, su sistema basado en MNs le permite entender las reglas gramaticales, las palabras, los conceptos abstractos, entre varias otras cosas. 
 ¿Conoces la metafora del hombre que sabe como hablar chino pero no lo entiende? Pues nuestro sistema MNs, a diferencia del LLM, vendría siendo el chino que sabe de verdad chino, ya no más respuestas extrañas, ya no más inventar cosas, ¿Entrenamientos complejos? ¡Claro que no! Alimenta a Krystal-ai con un buen artículo cientifíco, lo entenderá todo y creará nuevas neuronas para conectar todo su nuevo conocimiento.
 
 ## Visión General
