@@ -1,7 +1,7 @@
 # Sistema de IA Basado en Micro Neuronas (MNs)
 
 ## ---- ADVERTENCIA -----
-El proyecto está en fases de desarrollo extremadamente tempranas (alfa), si eres un usuario que busca ejecutar esta IA, **NO LO HAGAS**, aún no está lista y podría incluso no funcionar.
+El proyecto está en fases de desarrollo extremadamente tempranas (alfa), si eres un usuario que busca ejecutar esta IA, **NO LO HAGAS**, aún no está lista y podría incluso no funcionar, no se incluyó main.py ni otros archivos cruciales para su ejecución para así evitar que se intente.
 
 ## Notas del autor:
 Aquí les presento, la primera IA capaz de entender el lenguaje, su sistema basado en MNs le permite entender las reglas gramaticales, las palabras, los conceptos abstractos, entre varias otras cosas. 
