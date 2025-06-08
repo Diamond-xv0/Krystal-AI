@@ -47,23 +47,6 @@ La documentación técnica de cada módulo se encuentra en la carpeta `docs/`:
 - [Módulo de Consciencia](docs/consciencia.md)
 - [Aprendizaje y Dinámica de Conexiones](docs/aprendizaje.md)
 
-## Diagrama General
-
-```mermaid
-flowchart TD
-  MN[MicroNeurona] --> N[Neurona]
-  N --> MN
-  N --> MN2[MicroNeurona]
-  N -.-> NI[NeuronaInterconectora]
-  N --> M[MacroNeurona]
-  M --> N
-  NI -.-> N
-  NI -.-> M
-  M --> S[Sintetizador de Escenarios]
-  S --> T[TNs/MacroTN]
-  T --> C[Consciencia]
-  C --> OUT[Respuesta Final]
-```
 
 ## Aprendizaje y Adaptabilidad
 
